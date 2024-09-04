@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "323284516012",
+    "project_id": "rolebased-2e7ec",
+    "storage_bucket": "rolebased-2e7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323284516012:android:0bee0044f2ec0c0e03f309",
+        "android_client_info": {
+          "package_name": "com.example.role_based_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323284516012-fag2oo30qa5drrrborflbsmvjgmr7ld4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.role_based_login",
+            "certificate_hash": "86bb8814471b8d0649a2c52c5a60d97680a80cbd"
+          }
+        },
+        {
+          "client_id": "323284516012-6utpqhu3nneh0n0p8ambivp91amnvhld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5y8gzB-Hqn8Fn9KLsQgZmDnZfB9G8D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323284516012-6utpqhu3nneh0n0p8ambivp91amnvhld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
